@@ -2,6 +2,9 @@
 
 This repository serves as a structured, clause-by-clause **learning archive and practical implementation guide** for ISO/IEC 27001:2022. Each module includes my interpretation of the standard, implementation strategies, real-world examples, and personal reflections — all of which are intended to demonstrate my technical and strategic understanding of building a compliant and effective ISMS.
 
+This knowledge is primarily based on the **ISO 27001 Lead Implementer Course by Advisera**.  
+I would like to acknowledge **Dejan Kosutic**, the course instructor, for his structured approach and valuable insights throughout the training.
+
 ---
 
 ## 🧠 What Is ISO/IEC 27001?
