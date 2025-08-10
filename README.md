@@ -5,7 +5,6 @@ This repository serves as a structured, clause-by-clause **learning archive and 
 This knowledge is primarily based on the **ISO 27001 Lead Implementer Course by Advisera**.  
 I would like to acknowledge **Dejan Kosutic**, the course instructor, for his structured approach and valuable insights throughout the training.
 
----
 
 ##  What Is ISO/IEC 27001?
 
@@ -19,7 +18,6 @@ The framework is designed to:
 
 ISO 27001 is not just about compliance — it's about making security a core part of the business process.
 
----
 
 ##  Learning Objectives 
 
@@ -31,11 +29,10 @@ ISO 27001 is not just about compliance — it's about making security a core par
 - Conduct risk assessments, build risk treatment plans, and select appropriate Annex A controls
 - Align internal processes with external compliance requirements (e.g., GDPR, SOC 2, HIPAA)
 
-### 🛠 Practice ISMS Implementation
+###  Practice ISMS Implementation
 - Translate theoretical knowledge into **hands-on documentation**
 - Simulate implementation of an ISMS, including corrective actions, internal audits, and continual improvement
 
----
 
 ##  Why This Project Matters
 
@@ -45,7 +42,6 @@ ISO/IEC 27001 knowledge is crucial for cybersecurity professionals in GRC, cloud
 - Building a publicly verifiable knowledge base
 - Preparing for audit, consulting, and risk analyst positions
 
----
 
 ##  About Me
 
@@ -58,6 +54,5 @@ I’m **Indrayani Wanjari**, a graduate student specializing in **Cybersecurity*
 
 I believe cybersecurity is not just about defense — it's about trust, responsibility, continual learning and improvement.
 
----
 
 
