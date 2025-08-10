@@ -7,7 +7,7 @@ I would like to acknowledge **Dejan Kosutic**, the course instructor, for his st
 
 ---
 
-## 🧠 What Is ISO/IEC 27001?
+##  What Is ISO/IEC 27001?
 
 **ISO/IEC 27001** is the international standard for establishing, implementing, maintaining, and continually improving an **Information Security Management System (ISMS)**. Published by **ISO and IEC**, this standard enables organizations to manage sensitive information systematically and securely.
 
@@ -21,23 +21,23 @@ ISO 27001 is not just about compliance — it's about making security a core par
 
 ---
 
-## 🎯 Learning Objectives 
+##  Learning Objectives 
 
-### 🔐 Understand Core Security Governance
+###  Understand Core Security Governance
 - Learn how policies, procedures, and controls interact under a formal ISMS
 - Understand roles, responsibilities, and accountability in an organization
 
-### ⚖️ Develop Real-World Risk and Compliance Skills
+###  Develop Real-World Risk and Compliance Skills
 - Conduct risk assessments, build risk treatment plans, and select appropriate Annex A controls
 - Align internal processes with external compliance requirements (e.g., GDPR, SOC 2, HIPAA)
 
-### 🛠️ Practice ISMS Implementation
+### 🛠 Practice ISMS Implementation
 - Translate theoretical knowledge into **hands-on documentation**
 - Simulate implementation of an ISMS, including corrective actions, internal audits, and continual improvement
 
 ---
 
-## 🚀 Why This Project Matters
+##  Why This Project Matters
 
 ISO/IEC 27001 knowledge is crucial for cybersecurity professionals in GRC, cloud security, and leadership roles. Through this repository, I am:
 - Practicing full-lifecycle ISMS implementation
@@ -47,7 +47,7 @@ ISO/IEC 27001 knowledge is crucial for cybersecurity professionals in GRC, cloud
 
 ---
 
-## 💼 About Me
+##  About Me
 
 I’m **Indrayani Wanjari**, a graduate student specializing in **Cybersecurity** at the **National University of Singapore (NUS)**. I created this repository to bridge the gap between theoretical learning and practical application — and to build a public portfolio that showcases my growing expertise in:
 
