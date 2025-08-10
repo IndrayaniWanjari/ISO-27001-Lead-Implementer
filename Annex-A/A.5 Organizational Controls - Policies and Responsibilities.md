@@ -3,7 +3,7 @@
 > These 37 controls address the organizational aspects of information security. They are grouped into six subcategories as per ISO 27001:2022 Annex A.
 
 
-## **1. Policies & Responsibilities (A.5.1 – A.5.8)**
+## **I. Policies & Responsibilities (A.5.1 – A.5.8)**
 
 
 ## **A.5.1 Policies for Information Security**
